@@ -1,0 +1,61 @@
+.background{
+    background: linear-gradient(235deg, #bee19c, #a8bda3, #b1bdb4, #a0dbbc);
+    background-size: 800% 800%;
+
+    -webkit-animation: AnimationName 18s ease infinite;
+    -moz-animation: AnimationName 18s ease infinite;
+    -o-animation: AnimationName 18s ease infinite;
+    animation: AnimationName 18s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+}
+@-o-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+}
+@keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+}
+/*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Form++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+.Box09 form {
+    padding-top: 30px;
+    width: 30vw;
+    height: 100%;
+    display: grid;
+    place-content: center;
+
+    /* Add a transparency to the background
+       using rgba value */
+    background: rgba(255, 255, 255, 0.1);
+
+    /* Add a transparency to shadow */
+    box-shadow: 0 26px 42px rgba(0, 0, 0, 0.1);
+}
+ 
+.Box09 input,
+button {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 20px auto;
+    padding: 12px 20px;
+    border: none;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 13px 21px rgba(0, 0, 0, 0.05);
+}
+button:hover{
+    box-shadow: 1px 1px black;
+    text-shadow: 1px black;
+}

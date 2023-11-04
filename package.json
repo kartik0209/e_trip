@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.3",
+    "jsonwebtoken": "^9.0.0",
+    "react-bootstrap": "^2.7.2",
+    "react-datepicker": "^4.8.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.7.1",
+    "toastr": "^2.1.4"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.16"
+  }
+}

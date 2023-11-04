@@ -1,0 +1,86 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:5000",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@fontsource/roboto": "^4.5.8",
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-regular-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@material/slider": "^14.0.0",
+    "@material/typography": "^14.0.0",
+    "@mui/icons-material": "^5.11.0",
+    "@mui/material": "^5.11.1",
+    "@mui/styled-engine-sc": "^5.11.0",
+    "@react-icons/all-files": "^4.1.0",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "antd": "^5.0.7",
+    "antd-jalali-moment": "^3.3.8",
+    "axios": "^1.2.2",
+    "babel-plugin-macros": "^3.1.0",
+    "bootstrap": "^5.2.1",
+    "date-diff": "^1.0.2",
+    "date-fns": "^2.29.3",
+    "dayjs": "^1.11.7",
+    "font-awesome": "^4.7.0",
+    "google-map-react": "^2.2.0",
+    "js-joda": "^1.11.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^18.2.0",
+    "react-dropdown": "^1.11.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.7.1",
+    "react-iframe": "^1.8.5",
+    "react-phone-input-2": "^2.15.1",
+    "react-phone-number-input": "^3.2.13",
+    "react-router-dom": "^6.4.5",
+    "react-scripts": "^5.0.1",
+    "react-spinners": "^0.13.7",
+    "react-stripe-checkout": "^2.6.3",
+    "react-whatsapp": "^0.3.0",
+    "redux": "^4.2.0",
+    "rsuite": "^5.23.3",
+    "stripe": "^11.5.0",
+    "styled-components": "^5.3.6",
+    "typography": "^0.16.21",
+    "uuid": "^9.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "flow-babel-webpack-plugin": "^1.1.1"
+  }
+}

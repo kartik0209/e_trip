@@ -1,0 +1,131 @@
+.PerentBg{
+    font-family: 'Lato',sans-serif;
+    
+    display: flex;
+   
+    height: 100%;
+}
+.Hero_dev{
+    width: 380px;
+    box-shadow: 0 3px 30px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+    border-radius: 2px;
+    height: 300px;
+}
+.Hero_dev img {
+    width: 50px;
+    height: 50px;
+}
+.Form_texing{
+    height: 300px;
+    width: 550px;
+    box-shadow: 0 3px 30px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+    border-radius: 2px;
+    
+    margin-top: 100px;
+}
+.Marginghoio{
+    margin-left: 60px;
+}
+.price_tickitem{
+    width: 380px;
+    box-shadow: 0 3px 30px 0 rgb(0 0 0 / 10%);
+    background-color: #fff;
+    border-radius: 2px;
+    top: 50;
+    position: fixed;
+    margin-left: 500px;
+    height: 200px;
+   
+}
+.LogoNamecompany img {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.LogoNamecompany{
+    display: flex;
+}
+.LogoNamecompany h4{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-weight: 700;
+}
+/* .intnearby ::before{
+    content: "";
+    position: absolute;
+    top: 280px;
+    height: 40px;
+    border-left: 2px dashed #979797;
+    left: 95px;
+} */
+.Postions{
+    height: 200px;
+    border-left: 2px dotted gray;
+    width: 10px;
+    margin-left: 40px;
+}
+.Protectorting{
+    display: flex;
+
+}
+.Protectorting01{
+    display: flex;
+    
+}
+.intnearby{
+    margin-left: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 70px;
+}
+ .Lovecircle{
+    border: 2px solid #979797;
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    display: inline-flex;
+    background-color: #f4f4f4;
+    position: relative;
+   margin-left: 5px;
+   margin-right: 5px;
+}
+.Heropiuo{
+    display: flex;
+    justify-content: space-between;
+    margin: 7px;
+}
+.picolop{
+    font-weight: 900;
+    font-size: calc(var(--font-scale, 1)*18px);
+    padding-right: 180px;
+}
+.Appandicons img{
+    width: 12px;
+    height: 12px;
+}
+.Fairrow{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.Fontyio{
+    font-weight: 400;
+    font-size: 20px;
+}
+.Appandicons {
+    margin-top: 3px;
+}
+.Fairprice{
+    padding-top: 10px;
+    
+}
+.Piso{
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: calc(var(--font-scale, 1)*14px);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}

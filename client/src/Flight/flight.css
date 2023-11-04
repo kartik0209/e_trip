@@ -1,0 +1,66 @@
+.Flightmenue{
+    display: flex;
+    width: 100vw;
+    height: 150px;
+    margin: 10px;
+}
+.First-flexdiv img {
+    width: 50px;
+    height: 50px;
+}
+.Second_flightmenu{
+    display: flex;
+    margin-top: 20px;
+    justify-content:space-between;
+    width: 100%;
+    padding: 16px 14px;
+    border-top: 8px solid #e5eef5;
+    background: #fff;
+    border-radius: 2px;
+}
+.First-flexdiv{
+    display: flex;
+   
+}
+.Airloneimg{
+    margin-left: 10px;
+}
+.Airlinenametxt{
+    margin-left: 10px;
+    list-style: none;
+}
+.Airlinenametxt h5{
+    margin-top: 10px;
+    font-family: 'lato';
+}
+.second-flexdiv{
+    display: flex;
+}
+.Datedivpo{
+    display: flex;
+    justify-content: space-between;
+}
+.Secondate90{
+    margin-left: 100px;
+}
+.Secondate90 h3{
+    margin-top: 5px;
+}
+.iuyimnbv{
+    margin-top: 5px;
+}
+.Op45butoon{
+    background-image: linear-gradient(96deg,#53b2fe,#065af3);
+    border: 0;
+    border-radius: 34px;
+    box-shadow: 0 1px 7px 0 #0003;
+    color: #fff;  
+    cursor: pointer;
+    font-weight: 900;
+    outline: 0;
+    
+    text-align: center;
+    text-transform: uppercase;
+   
+    
+  }

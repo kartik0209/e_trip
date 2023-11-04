@@ -1,0 +1,249 @@
+.Box65{
+    width: 60vw;
+    height: 300px;
+   
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 8px #0000002e;
+    display: flex;
+    flex-direction: column;
+}
+.Textcontainer{
+    display: flex;
+    padding: 15px 20px;
+    
+}
+.container04 img{
+    width: 90px;
+    height: 90px;
+    margin-left: 30px;
+}
+.Containe03{
+    flex: 1;
+    font-size: 22px;
+    font-family: 'Lato',sans-serif;
+}
+.Containe03 p{
+
+    color: #9b9b9b;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-family: 'Lato',sans-serif;
+}
+.ratingbutton{
+    width: 30px;
+    border-radius: 4px;
+color: #fff;
+font-size: 12px;
+margin-left: 2px;
+margin-right: 3px;
+padding: 2px 7px;
+font-weight: 900;
+background: #0b58b4;
+}
+.Inputtitel p{
+    margin-bottom: 10px;
+}
+.Formstrick{
+    width:60vw;
+}
+.Box45{
+    display: flex;
+    
+}
+.Inptboxerro{
+    border: 1px solid #bebebe;
+    border-radius: 4px;
+    font-family: lato;
+    font-size: 14px;
+    font-weight: 400;
+    height: 40px;
+    outline: 0;
+    padding: 0 10px;
+    width: 100%;
+   
+}
+.Inptboxerro01{
+    border: 1px solid #bebebe;
+    border-radius: 4px;
+    font-family: lato;
+    font-size: 14px;
+    font-weight: 400;
+    height: 40px;
+    outline: 0;
+    padding: 0 10px;
+    margin-left: 10px;
+    width: 100%;
+}
+.INPUTREWQ{
+    margin-left: 10px;
+    border: 1px solid #bebebe;
+    border-radius: 4px;
+    font-family: 'Lato';
+    font-size: 14px;
+    font-weight: 400;
+    height: 40px;
+    outline: 0;
+    padding: 0 10px;
+    margin-left: 10px;
+    width: 100%;
+}
+.Inputharryuop{
+    margin-top: 10px;
+    display: flex;
+}
+.Inputtitel p{
+    color: #4a4a4a;
+    font-size: 11px;
+    font-family: "lato",sans-serif;
+}
+.Inputharryuop p{
+    color: #4a4a4a;
+    font-size: 11px;
+    font-family: "lato",sans-serif;
+}
+.Formstrick{   
+    margin-top: 30px; 
+    width: 60vw;
+    height: 300px;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 1px 8px #0000002e;
+    display: flex;
+    flex-direction: column;
+}
+.TYUIOPLKJ{
+    font-family: 'Lato',sans-serif;
+    height: 500px;
+  /* background-color: #bebebe; */
+  position: sticky;
+  top: 0;
+  margin: 8px;
+    
+}
+.p290{
+    display: flex;
+}
+.Perent209{
+    /* background-color: #0b58b4; */
+    width: 100%;
+    margin-left: 20px;
+    
+    
+}
+.Datedesgine{
+    align-items: center;
+    background-color: #f2f2f266;
+    display: flex;
+    padding: 7px 20px;
+}
+.checkindated{
+    display: flex;
+    flex-direction: column;
+}
+.Spanchackin{
+    margin-bottom: 3px;
+    font-size: calc(var(--font-scale, 1)*11px);
+    line-height: 11px;
+}
+.Datetexts_uio{
+    margin-bottom: 3px;
+    font-size: calc(var(--font-scale, 1)*22px);
+    line-height: 22px;
+}
+.Chack___slash{
+    flex: 1;
+    justify-content: center;
+    margin: 0 15px;
+    position: relative;
+    align-items: center;
+    display: flex;
+    width: 300px;
+}
+.Chack___slash span{
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #d8d8d8;
+    border-radius: 9px;
+    display: inline-flex;
+    font-size: 10px;
+    height: 18px;
+    justify-content: center;
+    padding: 0 10px;
+    position: relative;
+    text-transform: uppercase;
+    z-index: 1;
+}
+.Chack___slash ::before{
+    border-bottom: 1px dotted #5e5d5d;
+    content: "";
+
+    left: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+}
+.PriceFdi{
+    display: flex;
+    justify-content: space-between;
+}
+.OPKL_IO{
+    margin-right: 14px;
+    font-size: calc(var(--font-scale, 1)*22px);
+}
+.Q-70{
+    display: flex;
+    justify-content: space-between;
+}
+.OP9{
+    margin-right: 5px;
+}
+.Q-70 input{
+    width: 70px;
+    height: 30px;
+    margin: 2px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+}
+.TAxingvalues{
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+}
+.YUIOP8{
+    margin-right: 7px;
+}
+.ioyhujkilo{
+    font-size: calc(var(--font-scale, 1)*22px);
+}
+.UIOp{
+    font-size: calc(var(--font-scale, 1)*22px);
+}
+
+.Secondelse{
+    display: flex;
+    justify-content: space-between;
+}
+.Fistelse h4{
+    margin-right: 7px
+}
+.Secondelse h4 {
+    margin-right: 7px;
+}
+.Op45butoon{
+    background-image: linear-gradient(96deg,#53b2fe,#065af3);
+    border: 0;
+    border-radius: 34px;
+    box-shadow: 0 1px 7px 0 #0003;
+    color: #fff;  
+    cursor: pointer;
+    font-weight: 900;
+    outline: 0;
+    padding: 9px 20px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    
+  }

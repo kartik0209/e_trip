@@ -1,0 +1,107 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .Hero{
+    background: linear-gradient(235deg, #bee19c, #a8bda3, #b1bdb4, #a0dbbc);
+    background-size: 800% 800%;
+  
+    -webkit-animation: AnimationName 18s ease infinite;
+    -moz-animation: AnimationName 18s ease infinite;
+    -o-animation: AnimationName 18s ease infinite;
+    animation: AnimationName 18s ease infinite;
+  }
+  
+  @-webkit-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+  }
+  @-moz-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+  }
+  @-o-keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+  }
+  @keyframes AnimationName {
+    0%{background-position:0% 62%}
+    50%{background-position:100% 39%}
+    100%{background-position:0% 62%}
+  }
+  .serchbox{
+      padding: 1vh;
+      max-width: 600px;
+      margin: 50px auto;
+  }
+  .Nime[type="text"]{
+      display: block;
+      width: calc(100% - 24px); /*20px [ left & Right ] padding + 4px border [ left & Right ] */ 
+      font-size: 18px;
+      font-weight: 600;
+      color: #04AA6D;
+      padding: 10px;
+      border: 2px solid #04AA6D;
+  }
+  .Tabelm2{
+    padding-left: 20%;
+  }
+  .Tabelm2{
+      width: 50vw;
+      height: 100vh;
+      margin-left: 30%;
+      background-color: #e2e2e2;
+      
+    border-collapse: collapse;
+      
+  }
+  .Tabelm2 td{
+      /*border: 1px solid #ddd;*/
+    padding: 8px;
+    border: 0.5px solid beige;
+  }
+  .Tabelm2 tr:nth-child(even){background-color: #f2f2f2;}
+  .Tablem2 tr:hover {background-color: #ddd;}
+  .Tablem2 th{
+      border: 1px solid #ddd;
+    padding: 8px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+  /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+  
+  /* CSS */
+  .button-12 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6px 14px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+    border-radius: 6px;
+    border: none;
+  
+    background: #6E6D70;
+    box-shadow: 0px 0.5px 1px rgba(0, 0, 0, 0.1), inset 0px 0.5px 0.5px rgba(255, 255, 255, 0.5), 0px 0px 0px 0.5px rgba(0, 0, 0, 0.12);
+    color: #DFDEDF;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-12:focus {
+    box-shadow: inset 0px 0.8px 0px -0.25px rgba(255, 255, 255, 0.2), 0px 0.5px 1px rgba(0, 0, 0, 0.1), 0px 0px 0px 3.5px rgba(58, 108, 217, 0.5);
+    outline: 0;
+  }
+  .Hyper{
+      color: black;
+      text-decoration: none;
+  }
+  a:hover{
+      color: #6E6D70;
+      text-shadow: black;
+  }
